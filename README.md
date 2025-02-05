@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @joaovictortvs
 - 👀 I’m interested in Web Development
-- 🌱 I’m currently learning React Native
+- 🌱 I’m currently learning Next.js
 
 
 <!---
